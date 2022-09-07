@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d38d4257",
+   "id": "b32483f0",
    "metadata": {
     "papermill": {
-     "duration": 0.004266,
-     "end_time": "2022-09-07T21:50:09.983771",
+     "duration": 0.004587,
+     "end_time": "2022-09-07T23:16:52.986173",
      "exception": false,
-     "start_time": "2022-09-07T21:50:09.979505",
+     "start_time": "2022-09-07T23:16:52.981586",
      "status": "completed"
     },
     "tags": []
@@ -21,19 +21,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "0779658a",
+   "id": "b500d7ea",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:50:09.995639Z",
-     "iopub.status.busy": "2022-09-07T21:50:09.993793Z",
-     "iopub.status.idle": "2022-09-07T21:51:03.019747Z",
-     "shell.execute_reply": "2022-09-07T21:51:03.018017Z"
+     "iopub.execute_input": "2022-09-07T23:16:52.998531Z",
+     "iopub.status.busy": "2022-09-07T23:16:52.996612Z",
+     "iopub.status.idle": "2022-09-07T23:17:47.830975Z",
+     "shell.execute_reply": "2022-09-07T23:17:47.829296Z"
     },
     "papermill": {
-     "duration": 53.035639,
-     "end_time": "2022-09-07T21:51:03.022655",
+     "duration": 54.844227,
+     "end_time": "2022-09-07T23:17:47.833762",
      "exception": false,
-     "start_time": "2022-09-07T21:50:09.987016",
+     "start_time": "2022-09-07T23:16:52.989535",
      "status": "completed"
     },
     "tags": []
@@ -80,19 +80,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "bc97677c",
+   "id": "d9b7f723",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:03.061932Z",
-     "iopub.status.busy": "2022-09-07T21:51:03.032600Z",
-     "iopub.status.idle": "2022-09-07T21:51:04.708959Z",
-     "shell.execute_reply": "2022-09-07T21:51:04.706057Z"
+     "iopub.execute_input": "2022-09-07T23:17:47.871938Z",
+     "iopub.status.busy": "2022-09-07T23:17:47.843928Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.526264Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.523940Z"
     },
     "papermill": {
-     "duration": 1.685141,
-     "end_time": "2022-09-07T21:51:04.712371",
+     "duration": 1.690601,
+     "end_time": "2022-09-07T23:17:49.529108",
      "exception": false,
-     "start_time": "2022-09-07T21:51:03.027230",
+     "start_time": "2022-09-07T23:17:47.838507",
      "status": "completed"
     },
     "tags": []
@@ -168,19 +168,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "16a12e36",
+   "id": "48b7481a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:04.728282Z",
-     "iopub.status.busy": "2022-09-07T21:51:04.725908Z",
-     "iopub.status.idle": "2022-09-07T21:51:04.755997Z",
-     "shell.execute_reply": "2022-09-07T21:51:04.753231Z"
+     "iopub.execute_input": "2022-09-07T23:17:49.539699Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.538414Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.555600Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.554046Z"
     },
     "papermill": {
-     "duration": 0.0416,
-     "end_time": "2022-09-07T21:51:04.759642",
+     "duration": 0.024751,
+     "end_time": "2022-09-07T23:17:49.557841",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.718042",
+     "start_time": "2022-09-07T23:17:49.533090",
      "status": "completed"
     },
     "tags": []
@@ -208,13 +208,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9d062386",
+   "id": "c9bb7408",
    "metadata": {
     "papermill": {
-     "duration": 0.006363,
-     "end_time": "2022-09-07T21:51:04.772177",
+     "duration": 0.005764,
+     "end_time": "2022-09-07T23:17:49.569795",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.765814",
+     "start_time": "2022-09-07T23:17:49.564031",
      "status": "completed"
     },
     "tags": []
@@ -226,19 +226,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "49150f18",
+   "id": "2fe1f264",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:04.788902Z",
-     "iopub.status.busy": "2022-09-07T21:51:04.786288Z",
-     "iopub.status.idle": "2022-09-07T21:51:04.807870Z",
-     "shell.execute_reply": "2022-09-07T21:51:04.804978Z"
+     "iopub.execute_input": "2022-09-07T23:17:49.580243Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.578962Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.590703Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.589264Z"
     },
     "papermill": {
-     "duration": 0.033777,
-     "end_time": "2022-09-07T21:51:04.811807",
+     "duration": 0.018614,
+     "end_time": "2022-09-07T23:17:49.592582",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.778030",
+     "start_time": "2022-09-07T23:17:49.573968",
      "status": "completed"
     },
     "tags": []
@@ -250,37 +250,407 @@
   },
   {
    "cell_type": "markdown",
-   "id": "62e4725e",
+   "id": "5185983e",
    "metadata": {
     "papermill": {
-     "duration": 0.006313,
-     "end_time": "2022-09-07T21:51:04.824111",
+     "duration": 0.005332,
+     "end_time": "2022-09-07T23:17:49.602539",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.817798",
+     "start_time": "2022-09-07T23:17:49.597207",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "# Sort GroupBy"
+    "# Sort and Counts GroupBy"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "0cf004d4",
+   "id": "799aa79a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:04.839987Z",
-     "iopub.status.busy": "2022-09-07T21:51:04.837690Z",
-     "iopub.status.idle": "2022-09-07T21:51:04.855796Z",
-     "shell.execute_reply": "2022-09-07T21:51:04.852929Z"
+     "iopub.execute_input": "2022-09-07T23:17:49.614804Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.613423Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.633081Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.631518Z"
     },
     "papermill": {
-     "duration": 0.029647,
-     "end_time": "2022-09-07T21:51:04.859497",
+     "duration": 0.02707,
+     "end_time": "2022-09-07T23:17:49.635147",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.829850",
+     "start_time": "2022-09-07T23:17:49.608077",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "533"
+      ],
+      "text/latex": [
+       "533"
+      ],
+      "text/markdown": [
+       "533"
+      ],
+      "text/plain": [
+       "[1] 533"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "180"
+      ],
+      "text/latex": [
+       "180"
+      ],
+      "text/markdown": [
+       "180"
+      ],
+      "text/plain": [
+       "[1] 180"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "length(which(df$HourlyWage>28))\n",
+    "length(which(df$HourlyWage>28 & df$Industry=='Automotive'))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "ab2ad033",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-09-07T23:17:49.646560Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.645255Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.722117Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.719865Z"
+    },
+    "papermill": {
+     "duration": 0.085289,
+     "end_time": "2022-09-07T23:17:49.724981",
+     "exception": false,
+     "start_time": "2022-09-07T23:17:49.639692",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 578 × 4</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>EmployeeID</th><th scope=col>HourlyWage</th><th scope=col>Industry</th><th scope=col>Job</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;chr&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>567</th><td>567</td><td>28.74</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>77</th><td> 77</td><td>29.00</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>574</th><td>574</td><td>32.10</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>36</th><td> 36</td><td>38.28</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>476</th><td>476</td><td>39.67</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>553</th><td>553</td><td>39.67</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>536</th><td>536</td><td>41.06</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>325</th><td>325</td><td>41.26</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>600</th><td>600</td><td>41.26</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>314</th><td>314</td><td>41.37</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>67</th><td> 67</td><td>41.50</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>59</th><td> 59</td><td>42.92</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>75</th><td> 75</td><td>42.92</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>84</th><td> 84</td><td>42.92</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>430</th><td>430</td><td>42.92</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>548</th><td>548</td><td>42.92</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>  5</td><td>43.62</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>236</th><td>236</td><td>44.54</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>230</th><td>230</td><td>46.10</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>375</th><td>375</td><td>47.00</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>322</th><td>322</td><td>48.00</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>393</th><td>393</td><td>48.00</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>136</th><td>136</td><td>48.56</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>235</th><td>235</td><td>48.97</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>477</th><td>477</td><td>49.32</td><td>Automotive</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>65</th><td> 65</td><td>34.07</td><td>Automotive</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>264</th><td>264</td><td>35.43</td><td>Automotive</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>364</th><td>364</td><td>40.92</td><td>Automotive</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>87</th><td> 87</td><td>41.88</td><td>Automotive</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>497</th><td>497</td><td>41.89</td><td>Automotive</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>⋮</th><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td></tr>\n",
+       "\t<tr><th scope=row>292</th><td>292</td><td>48.87</td><td>Tech</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>141</th><td>141</td><td>49.49</td><td>Tech</td><td>Accountant</td></tr>\n",
+       "\t<tr><th scope=row>571</th><td>571</td><td>35.43</td><td>Tech</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>302</th><td>302</td><td>40.48</td><td>Tech</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>73</th><td> 73</td><td>43.73</td><td>Tech</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>353</th><td>353</td><td>43.73</td><td>Tech</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>242</th><td>242</td><td>47.13</td><td>Tech</td><td>Consultant</td></tr>\n",
+       "\t<tr><th scope=row>216</th><td>216</td><td>25.17</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>295</th><td>295</td><td>29.55</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>80</th><td> 80</td><td>34.76</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>113</th><td>113</td><td>36.13</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>125</th><td>125</td><td>47.72</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>491</th><td>491</td><td>47.72</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>217</th><td>217</td><td>49.55</td><td>Tech</td><td>Engineer  </td></tr>\n",
+       "\t<tr><th scope=row>88</th><td> 88</td><td>31.00</td><td>Tech</td><td>Other     </td></tr>\n",
+       "\t<tr><th scope=row>167</th><td>167</td><td>33.00</td><td>Tech</td><td>Other     </td></tr>\n",
+       "\t<tr><th scope=row>343</th><td>343</td><td>42.20</td><td>Tech</td><td>Other     </td></tr>\n",
+       "\t<tr><th scope=row>360</th><td>360</td><td>44.07</td><td>Tech</td><td>Other     </td></tr>\n",
+       "\t<tr><th scope=row>134</th><td>134</td><td>45.49</td><td>Tech</td><td>Other     </td></tr>\n",
+       "\t<tr><th scope=row>251</th><td>251</td><td>26.09</td><td>Tech</td><td>Programmer</td></tr>\n",
+       "\t<tr><th scope=row>40</th><td> 40</td><td>34.76</td><td>Tech</td><td>Programmer</td></tr>\n",
+       "\t<tr><th scope=row>82</th><td> 82</td><td>41.26</td><td>Tech</td><td>Programmer</td></tr>\n",
+       "\t<tr><th scope=row>332</th><td>332</td><td>49.47</td><td>Tech</td><td>Programmer</td></tr>\n",
+       "\t<tr><th scope=row>127</th><td>127</td><td>25.17</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>250</th><td>250</td><td>33.00</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>198</th><td>198</td><td>36.13</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>163</th><td>163</td><td>48.08</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>29</th><td> 29</td><td>48.87</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>137</th><td>137</td><td>48.87</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "\t<tr><th scope=row>197</th><td>197</td><td>48.87</td><td>Tech</td><td>Sales Rep </td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 578 × 4\n",
+       "\\begin{tabular}{r|llll}\n",
+       "  & EmployeeID & HourlyWage & Industry & Job\\\\\n",
+       "  & <dbl> & <dbl> & <chr> & <chr>\\\\\n",
+       "\\hline\n",
+       "\t567 & 567 & 28.74 & Automotive & Accountant\\\\\n",
+       "\t77 &  77 & 29.00 & Automotive & Accountant\\\\\n",
+       "\t574 & 574 & 32.10 & Automotive & Accountant\\\\\n",
+       "\t36 &  36 & 38.28 & Automotive & Accountant\\\\\n",
+       "\t476 & 476 & 39.67 & Automotive & Accountant\\\\\n",
+       "\t553 & 553 & 39.67 & Automotive & Accountant\\\\\n",
+       "\t536 & 536 & 41.06 & Automotive & Accountant\\\\\n",
+       "\t325 & 325 & 41.26 & Automotive & Accountant\\\\\n",
+       "\t600 & 600 & 41.26 & Automotive & Accountant\\\\\n",
+       "\t314 & 314 & 41.37 & Automotive & Accountant\\\\\n",
+       "\t67 &  67 & 41.50 & Automotive & Accountant\\\\\n",
+       "\t59 &  59 & 42.92 & Automotive & Accountant\\\\\n",
+       "\t75 &  75 & 42.92 & Automotive & Accountant\\\\\n",
+       "\t84 &  84 & 42.92 & Automotive & Accountant\\\\\n",
+       "\t430 & 430 & 42.92 & Automotive & Accountant\\\\\n",
+       "\t548 & 548 & 42.92 & Automotive & Accountant\\\\\n",
+       "\t5 &   5 & 43.62 & Automotive & Accountant\\\\\n",
+       "\t236 & 236 & 44.54 & Automotive & Accountant\\\\\n",
+       "\t230 & 230 & 46.10 & Automotive & Accountant\\\\\n",
+       "\t375 & 375 & 47.00 & Automotive & Accountant\\\\\n",
+       "\t322 & 322 & 48.00 & Automotive & Accountant\\\\\n",
+       "\t393 & 393 & 48.00 & Automotive & Accountant\\\\\n",
+       "\t136 & 136 & 48.56 & Automotive & Accountant\\\\\n",
+       "\t235 & 235 & 48.97 & Automotive & Accountant\\\\\n",
+       "\t477 & 477 & 49.32 & Automotive & Accountant\\\\\n",
+       "\t65 &  65 & 34.07 & Automotive & Consultant\\\\\n",
+       "\t264 & 264 & 35.43 & Automotive & Consultant\\\\\n",
+       "\t364 & 364 & 40.92 & Automotive & Consultant\\\\\n",
+       "\t87 &  87 & 41.88 & Automotive & Consultant\\\\\n",
+       "\t497 & 497 & 41.89 & Automotive & Consultant\\\\\n",
+       "\t⋮ & ⋮ & ⋮ & ⋮ & ⋮\\\\\n",
+       "\t292 & 292 & 48.87 & Tech & Accountant\\\\\n",
+       "\t141 & 141 & 49.49 & Tech & Accountant\\\\\n",
+       "\t571 & 571 & 35.43 & Tech & Consultant\\\\\n",
+       "\t302 & 302 & 40.48 & Tech & Consultant\\\\\n",
+       "\t73 &  73 & 43.73 & Tech & Consultant\\\\\n",
+       "\t353 & 353 & 43.73 & Tech & Consultant\\\\\n",
+       "\t242 & 242 & 47.13 & Tech & Consultant\\\\\n",
+       "\t216 & 216 & 25.17 & Tech & Engineer  \\\\\n",
+       "\t295 & 295 & 29.55 & Tech & Engineer  \\\\\n",
+       "\t80 &  80 & 34.76 & Tech & Engineer  \\\\\n",
+       "\t113 & 113 & 36.13 & Tech & Engineer  \\\\\n",
+       "\t125 & 125 & 47.72 & Tech & Engineer  \\\\\n",
+       "\t491 & 491 & 47.72 & Tech & Engineer  \\\\\n",
+       "\t217 & 217 & 49.55 & Tech & Engineer  \\\\\n",
+       "\t88 &  88 & 31.00 & Tech & Other     \\\\\n",
+       "\t167 & 167 & 33.00 & Tech & Other     \\\\\n",
+       "\t343 & 343 & 42.20 & Tech & Other     \\\\\n",
+       "\t360 & 360 & 44.07 & Tech & Other     \\\\\n",
+       "\t134 & 134 & 45.49 & Tech & Other     \\\\\n",
+       "\t251 & 251 & 26.09 & Tech & Programmer\\\\\n",
+       "\t40 &  40 & 34.76 & Tech & Programmer\\\\\n",
+       "\t82 &  82 & 41.26 & Tech & Programmer\\\\\n",
+       "\t332 & 332 & 49.47 & Tech & Programmer\\\\\n",
+       "\t127 & 127 & 25.17 & Tech & Sales Rep \\\\\n",
+       "\t250 & 250 & 33.00 & Tech & Sales Rep \\\\\n",
+       "\t198 & 198 & 36.13 & Tech & Sales Rep \\\\\n",
+       "\t163 & 163 & 48.08 & Tech & Sales Rep \\\\\n",
+       "\t29 &  29 & 48.87 & Tech & Sales Rep \\\\\n",
+       "\t137 & 137 & 48.87 & Tech & Sales Rep \\\\\n",
+       "\t197 & 197 & 48.87 & Tech & Sales Rep \\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 578 × 4\n",
+       "\n",
+       "| <!--/--> | EmployeeID &lt;dbl&gt; | HourlyWage &lt;dbl&gt; | Industry &lt;chr&gt; | Job &lt;chr&gt; |\n",
+       "|---|---|---|---|---|\n",
+       "| 567 | 567 | 28.74 | Automotive | Accountant |\n",
+       "| 77 |  77 | 29.00 | Automotive | Accountant |\n",
+       "| 574 | 574 | 32.10 | Automotive | Accountant |\n",
+       "| 36 |  36 | 38.28 | Automotive | Accountant |\n",
+       "| 476 | 476 | 39.67 | Automotive | Accountant |\n",
+       "| 553 | 553 | 39.67 | Automotive | Accountant |\n",
+       "| 536 | 536 | 41.06 | Automotive | Accountant |\n",
+       "| 325 | 325 | 41.26 | Automotive | Accountant |\n",
+       "| 600 | 600 | 41.26 | Automotive | Accountant |\n",
+       "| 314 | 314 | 41.37 | Automotive | Accountant |\n",
+       "| 67 |  67 | 41.50 | Automotive | Accountant |\n",
+       "| 59 |  59 | 42.92 | Automotive | Accountant |\n",
+       "| 75 |  75 | 42.92 | Automotive | Accountant |\n",
+       "| 84 |  84 | 42.92 | Automotive | Accountant |\n",
+       "| 430 | 430 | 42.92 | Automotive | Accountant |\n",
+       "| 548 | 548 | 42.92 | Automotive | Accountant |\n",
+       "| 5 |   5 | 43.62 | Automotive | Accountant |\n",
+       "| 236 | 236 | 44.54 | Automotive | Accountant |\n",
+       "| 230 | 230 | 46.10 | Automotive | Accountant |\n",
+       "| 375 | 375 | 47.00 | Automotive | Accountant |\n",
+       "| 322 | 322 | 48.00 | Automotive | Accountant |\n",
+       "| 393 | 393 | 48.00 | Automotive | Accountant |\n",
+       "| 136 | 136 | 48.56 | Automotive | Accountant |\n",
+       "| 235 | 235 | 48.97 | Automotive | Accountant |\n",
+       "| 477 | 477 | 49.32 | Automotive | Accountant |\n",
+       "| 65 |  65 | 34.07 | Automotive | Consultant |\n",
+       "| 264 | 264 | 35.43 | Automotive | Consultant |\n",
+       "| 364 | 364 | 40.92 | Automotive | Consultant |\n",
+       "| 87 |  87 | 41.88 | Automotive | Consultant |\n",
+       "| 497 | 497 | 41.89 | Automotive | Consultant |\n",
+       "| ⋮ | ⋮ | ⋮ | ⋮ | ⋮ |\n",
+       "| 292 | 292 | 48.87 | Tech | Accountant |\n",
+       "| 141 | 141 | 49.49 | Tech | Accountant |\n",
+       "| 571 | 571 | 35.43 | Tech | Consultant |\n",
+       "| 302 | 302 | 40.48 | Tech | Consultant |\n",
+       "| 73 |  73 | 43.73 | Tech | Consultant |\n",
+       "| 353 | 353 | 43.73 | Tech | Consultant |\n",
+       "| 242 | 242 | 47.13 | Tech | Consultant |\n",
+       "| 216 | 216 | 25.17 | Tech | Engineer   |\n",
+       "| 295 | 295 | 29.55 | Tech | Engineer   |\n",
+       "| 80 |  80 | 34.76 | Tech | Engineer   |\n",
+       "| 113 | 113 | 36.13 | Tech | Engineer   |\n",
+       "| 125 | 125 | 47.72 | Tech | Engineer   |\n",
+       "| 491 | 491 | 47.72 | Tech | Engineer   |\n",
+       "| 217 | 217 | 49.55 | Tech | Engineer   |\n",
+       "| 88 |  88 | 31.00 | Tech | Other      |\n",
+       "| 167 | 167 | 33.00 | Tech | Other      |\n",
+       "| 343 | 343 | 42.20 | Tech | Other      |\n",
+       "| 360 | 360 | 44.07 | Tech | Other      |\n",
+       "| 134 | 134 | 45.49 | Tech | Other      |\n",
+       "| 251 | 251 | 26.09 | Tech | Programmer |\n",
+       "| 40 |  40 | 34.76 | Tech | Programmer |\n",
+       "| 82 |  82 | 41.26 | Tech | Programmer |\n",
+       "| 332 | 332 | 49.47 | Tech | Programmer |\n",
+       "| 127 | 127 | 25.17 | Tech | Sales Rep  |\n",
+       "| 250 | 250 | 33.00 | Tech | Sales Rep  |\n",
+       "| 198 | 198 | 36.13 | Tech | Sales Rep  |\n",
+       "| 163 | 163 | 48.08 | Tech | Sales Rep  |\n",
+       "| 29 |  29 | 48.87 | Tech | Sales Rep  |\n",
+       "| 137 | 137 | 48.87 | Tech | Sales Rep  |\n",
+       "| 197 | 197 | 48.87 | Tech | Sales Rep  |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "    EmployeeID HourlyWage Industry   Job       \n",
+       "567 567        28.74      Automotive Accountant\n",
+       "77   77        29.00      Automotive Accountant\n",
+       "574 574        32.10      Automotive Accountant\n",
+       "36   36        38.28      Automotive Accountant\n",
+       "476 476        39.67      Automotive Accountant\n",
+       "553 553        39.67      Automotive Accountant\n",
+       "536 536        41.06      Automotive Accountant\n",
+       "325 325        41.26      Automotive Accountant\n",
+       "600 600        41.26      Automotive Accountant\n",
+       "314 314        41.37      Automotive Accountant\n",
+       "67   67        41.50      Automotive Accountant\n",
+       "59   59        42.92      Automotive Accountant\n",
+       "75   75        42.92      Automotive Accountant\n",
+       "84   84        42.92      Automotive Accountant\n",
+       "430 430        42.92      Automotive Accountant\n",
+       "548 548        42.92      Automotive Accountant\n",
+       "5     5        43.62      Automotive Accountant\n",
+       "236 236        44.54      Automotive Accountant\n",
+       "230 230        46.10      Automotive Accountant\n",
+       "375 375        47.00      Automotive Accountant\n",
+       "322 322        48.00      Automotive Accountant\n",
+       "393 393        48.00      Automotive Accountant\n",
+       "136 136        48.56      Automotive Accountant\n",
+       "235 235        48.97      Automotive Accountant\n",
+       "477 477        49.32      Automotive Accountant\n",
+       "65   65        34.07      Automotive Consultant\n",
+       "264 264        35.43      Automotive Consultant\n",
+       "364 364        40.92      Automotive Consultant\n",
+       "87   87        41.88      Automotive Consultant\n",
+       "497 497        41.89      Automotive Consultant\n",
+       "⋮   ⋮          ⋮          ⋮          ⋮         \n",
+       "292 292        48.87      Tech       Accountant\n",
+       "141 141        49.49      Tech       Accountant\n",
+       "571 571        35.43      Tech       Consultant\n",
+       "302 302        40.48      Tech       Consultant\n",
+       "73   73        43.73      Tech       Consultant\n",
+       "353 353        43.73      Tech       Consultant\n",
+       "242 242        47.13      Tech       Consultant\n",
+       "216 216        25.17      Tech       Engineer  \n",
+       "295 295        29.55      Tech       Engineer  \n",
+       "80   80        34.76      Tech       Engineer  \n",
+       "113 113        36.13      Tech       Engineer  \n",
+       "125 125        47.72      Tech       Engineer  \n",
+       "491 491        47.72      Tech       Engineer  \n",
+       "217 217        49.55      Tech       Engineer  \n",
+       "88   88        31.00      Tech       Other     \n",
+       "167 167        33.00      Tech       Other     \n",
+       "343 343        42.20      Tech       Other     \n",
+       "360 360        44.07      Tech       Other     \n",
+       "134 134        45.49      Tech       Other     \n",
+       "251 251        26.09      Tech       Programmer\n",
+       "40   40        34.76      Tech       Programmer\n",
+       "82   82        41.26      Tech       Programmer\n",
+       "332 332        49.47      Tech       Programmer\n",
+       "127 127        25.17      Tech       Sales Rep \n",
+       "250 250        33.00      Tech       Sales Rep \n",
+       "198 198        36.13      Tech       Sales Rep \n",
+       "163 163        48.08      Tech       Sales Rep \n",
+       "29   29        48.87      Tech       Sales Rep \n",
+       "137 137        48.87      Tech       Sales Rep \n",
+       "197 197        48.87      Tech       Sales Rep "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "sortDF <- df[order(df$Industry, df$Job, df$HourlyWage),]\n",
+    "View(sortDF)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "7aa22356",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-09-07T23:17:49.737289Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.735977Z",
+     "iopub.status.idle": "2022-09-07T23:17:49.747347Z",
+     "shell.execute_reply": "2022-09-07T23:17:49.745824Z"
+    },
+    "papermill": {
+     "duration": 0.019859,
+     "end_time": "2022-09-07T23:17:49.749725",
+     "exception": false,
+     "start_time": "2022-09-07T23:17:49.729866",
      "status": "completed"
     },
     "tags": []
@@ -297,13 +667,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "73b31e65",
+   "id": "d72a896d",
    "metadata": {
     "papermill": {
-     "duration": 0.006093,
-     "end_time": "2022-09-07T21:51:04.872724",
+     "duration": 0.004704,
+     "end_time": "2022-09-07T23:17:49.758922",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.866631",
+     "start_time": "2022-09-07T23:17:49.754218",
      "status": "completed"
     },
     "tags": []
@@ -314,20 +684,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
-   "id": "eb21368f",
+   "execution_count": 8,
+   "id": "09e76b7a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:04.888802Z",
-     "iopub.status.busy": "2022-09-07T21:51:04.886483Z",
-     "iopub.status.idle": "2022-09-07T21:51:05.337682Z",
-     "shell.execute_reply": "2022-09-07T21:51:05.335905Z"
+     "iopub.execute_input": "2022-09-07T23:17:49.771341Z",
+     "iopub.status.busy": "2022-09-07T23:17:49.769872Z",
+     "iopub.status.idle": "2022-09-07T23:17:50.215809Z",
+     "shell.execute_reply": "2022-09-07T23:17:50.214197Z"
     },
     "papermill": {
-     "duration": 0.462677,
-     "end_time": "2022-09-07T21:51:05.341003",
+     "duration": 0.455247,
+     "end_time": "2022-09-07T23:17:50.218743",
      "exception": false,
-     "start_time": "2022-09-07T21:51:04.878326",
+     "start_time": "2022-09-07T23:17:49.763496",
      "status": "completed"
     },
     "tags": []
@@ -359,20 +729,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "1fb061bd",
+   "execution_count": 9,
+   "id": "55af8b9c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:05.355390Z",
-     "iopub.status.busy": "2022-09-07T21:51:05.353938Z",
-     "iopub.status.idle": "2022-09-07T21:51:05.489710Z",
-     "shell.execute_reply": "2022-09-07T21:51:05.487960Z"
+     "iopub.execute_input": "2022-09-07T23:17:50.244503Z",
+     "iopub.status.busy": "2022-09-07T23:17:50.243259Z",
+     "iopub.status.idle": "2022-09-07T23:17:50.362753Z",
+     "shell.execute_reply": "2022-09-07T23:17:50.361044Z"
     },
     "papermill": {
-     "duration": 0.146247,
-     "end_time": "2022-09-07T21:51:05.492768",
+     "duration": 0.140772,
+     "end_time": "2022-09-07T23:17:50.365547",
      "exception": false,
-     "start_time": "2022-09-07T21:51:05.346521",
+     "start_time": "2022-09-07T23:17:50.224775",
      "status": "completed"
     },
     "tags": []
@@ -404,20 +774,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "27e79fb4",
+   "execution_count": 10,
+   "id": "ec691532",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-09-07T21:51:05.510429Z",
-     "iopub.status.busy": "2022-09-07T21:51:05.508911Z",
-     "iopub.status.idle": "2022-09-07T21:51:05.849230Z",
-     "shell.execute_reply": "2022-09-07T21:51:05.847422Z"
+     "iopub.execute_input": "2022-09-07T23:17:50.384065Z",
+     "iopub.status.busy": "2022-09-07T23:17:50.382714Z",
+     "iopub.status.idle": "2022-09-07T23:17:50.702597Z",
+     "shell.execute_reply": "2022-09-07T23:17:50.700897Z"
     },
     "papermill": {
-     "duration": 0.35219,
-     "end_time": "2022-09-07T21:51:05.852083",
+     "duration": 0.331908,
+     "end_time": "2022-09-07T23:17:50.705703",
      "exception": false,
-     "start_time": "2022-09-07T21:51:05.499893",
+     "start_time": "2022-09-07T23:17:50.373795",
      "status": "completed"
     },
     "tags": []
@@ -450,13 +820,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "69e317e3",
+   "id": "4f496511",
    "metadata": {
     "papermill": {
-     "duration": 0.008645,
-     "end_time": "2022-09-07T21:51:05.870014",
+     "duration": 0.009266,
+     "end_time": "2022-09-07T23:17:50.724195",
      "exception": false,
-     "start_time": "2022-09-07T21:51:05.861369",
+     "start_time": "2022-09-07T23:17:50.714929",
      "status": "completed"
     },
     "tags": []
@@ -468,13 +838,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "0e934bef",
+   "id": "83e2a0f7",
    "metadata": {
     "papermill": {
-     "duration": 0.008555,
-     "end_time": "2022-09-07T21:51:05.887032",
+     "duration": 0.008546,
+     "end_time": "2022-09-07T23:17:50.741210",
      "exception": false,
-     "start_time": "2022-09-07T21:51:05.878477",
+     "start_time": "2022-09-07T23:17:50.732664",
      "status": "completed"
     },
     "tags": []
@@ -485,13 +855,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "954e0f04",
+   "id": "9f3dddf4",
    "metadata": {
     "papermill": {
-     "duration": 0.008507,
-     "end_time": "2022-09-07T21:51:05.903992",
+     "duration": 0.008322,
+     "end_time": "2022-09-07T23:17:50.757928",
      "exception": false,
-     "start_time": "2022-09-07T21:51:05.895485",
+     "start_time": "2022-09-07T23:17:50.749606",
      "status": "completed"
     },
     "tags": []
@@ -516,14 +886,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 59.638195,
-   "end_time": "2022-09-07T21:51:06.035562",
+   "duration": 61.21574,
+   "end_time": "2022-09-07T23:17:50.885701",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-09-07T21:50:06.397367",
+   "start_time": "2022-09-07T23:16:49.669961",
    "version": "2.3.4"
   }
  },
